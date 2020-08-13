@@ -11,5 +11,10 @@ package projeto_13_08;
  * @author Luiz
  */
 public class projeto_13_08 {
-    
+    public static void main(String[] args) {
+        System.out.println("pau que e carnaval");
+        
+        System.out.println("ae cambada");
+        
+    }
 }
